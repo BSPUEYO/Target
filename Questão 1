@@ -1,0 +1,26 @@
+Valor da variável SOMA
+
+Esse código realiza um laço que incrementa a variável K e acumula esse valor em SOMA. Sabemos que o valor inicial de INDICE é 13, portanto, o laço irá ocorrer 13 vezes.
+
+A cada iteração, K será incrementado em 1 e seu valor será somado a SOMA. Ou seja, o valor final de SOMA será a soma dos números de 1 a 13:
+
+𝑆
+𝑂
+𝑀
+𝐴
+=
+1
++
+2
++
+3
++
+.
+.
+.
++
+13
+=
+91
+SOMA=1+2+3+...+13=91
+Portanto, o valor final de SOMA será 91.
